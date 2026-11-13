@@ -1,0 +1,7 @@
+C:\>avrdude -c avrisp -b 19200 -p m16 -P  COM6 -U flash:w:" path hex file":i
+
+
+
+
+
+C:\>// avrdude -c avrisp -b 19200 -p m16 -P  COM6 -U flash:w:"C:\Users\MouhannadlrX\Desktop\courses\Ebedded System\Embedded System Karem\projects\Tasks\test_atmega16_led\test_atmega16_led\Debug\test_atmega16_led.hex":i

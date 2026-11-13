@@ -1,0 +1,41 @@
+# IDE / workspace
+.metadata/
+.settings/
+.vs/
+.idea/
+.vscode/
+*.workspace
+*.suo
+*.user
+*.pdom
+*.index
+*.tree
+
+# Build outputs
+Debug/
+Release/
+**/Debug/
+**/Release/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lss
+*.eep
+*.srec
+*.a
+
+# Proteus backups / logs
+*.pdsbak
+*.log
+
+# Media / large files
+*.mp4
+*.avi
+*.mkv
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
